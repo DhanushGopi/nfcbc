@@ -106,7 +106,7 @@ function App() {
             {/* Footer */}
             <footer className="bg-gray-900 text-white p-[20px]">
                 <div className="text-center text-gray-400 text-sm">
-                  <p>© 2025 DPay - All rights reserved.</p>
+                  <p>© 2025 DhanushGopi - All rights reserved.</p>
                 </div>
             </footer>
               </div>
